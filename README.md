@@ -1,7 +1,5 @@
 # README
 
-いさみんは、ゆるキャラ！！
-
 ## github使い方
 ### git add .
 ### git commit -m "commit"
